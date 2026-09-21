@@ -5,7 +5,7 @@ Thank you for considering a contribution. This list covers **COBIT**, **COSO Int
 ## What belongs here
 
 - Official standards, frameworks, and their supporting documents.
-- Implementation guidance: control matrices (RCMs), scoping methodologies, audit programmes.
+- Implementation guidance: control matrices (RCMs), scoping methodologies, audit programs.
 - Open-source tools that automate evidence-gathering for ITGC/ITAC testing.
 - Commercial GRC and SOX-management platforms with a mature, named feature set.
 - Certification and training paths for IT auditors and governance practitioners.
@@ -27,7 +27,7 @@ Thank you for considering a contribution. This list covers **COBIT**, **COSO Int
 
 ## Style
 
-- British English in the description copy.
+- American English in the description copy.
 - No emojis.
 - Avoid banned vocabulary (delve, leverage, harness, robust, seamless, holistic, transformative, paradigm). Plain language wins.
 - Flag paywalled standards explicitly (as the COSO entries do) rather than implying free access.
@@ -42,6 +42,6 @@ Thank you for considering a contribution. This list covers **COBIT**, **COSO Int
 
 A maintainer reviews PRs within seven days. Most PRs that meet the criteria above land within two weeks.
 
-## Licence
+## License
 
 By contributing you agree your contribution is released under CC0 1.0 Universal.

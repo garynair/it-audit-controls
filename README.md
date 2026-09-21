@@ -32,7 +32,7 @@ Contributions welcome.
 
 ## Why These Frameworks Matter
 
-These four pieces fit together as layers, not alternatives. COSO's Internal Control – Integrated Framework is the conceptual backbone almost every SOX 404 programme is built on: its five components (Control Environment, Risk Assessment, Control Activities, Information and Communication, Monitoring Activities) and seventeen principles are what management and auditors assess against when they conclude internal control is effective. COSO ERM sits alongside it as the enterprise risk lens, connecting control design to strategy and risk appetite rather than treating controls as a checklist. COBIT is the IT governance and management framework that translates those control objectives into IT-specific governance and management objectives, so a CIO or IT audit team has a structured way to organise IT policy, process, and accountability. ITGC and ITAC are where all of this becomes testable: ITGCs (access, change management, IT operations, sometimes program development) provide the control environment a financial application relies on, while ITACs (input completeness, accuracy, validity, and processing/output integrity) are the automated controls embedded inside a specific application or workflow.
+These four pieces fit together as layers, not alternatives. COSO's Internal Control – Integrated Framework is the conceptual backbone almost every SOX 404 program is built on: its five components (Control Environment, Risk Assessment, Control Activities, Information and Communication, Monitoring Activities) and seventeen principles are what management and auditors assess against when they conclude internal control is effective. COSO ERM sits alongside it as the enterprise risk lens, connecting control design to strategy and risk appetite rather than treating controls as a checklist. COBIT is the IT governance and management framework that translates those control objectives into IT-specific governance and management objectives, so a CIO or IT audit team has a structured way to organize IT policy, process, and accountability. ITGC and ITAC are where all of this becomes testable: ITGCs (access, change management, IT operations, sometimes program development) provide the control environment a financial application relies on, while ITACs (input completeness, accuracy, validity, and processing/output integrity) are the automated controls embedded inside a specific application or workflow.
 
 A financial-statement or IT audit typically works top-down through this stack: COSO sets the control objectives, COBIT structures the IT governance and management response, and ITGC/ITAC testing is where an auditor gathers evidence that the controls actually operate.
 
@@ -42,8 +42,8 @@ A financial-statement or IT audit typically works top-down through this stack: C
 
 1. **Scope the audit.** Identify in-scope entities, business processes, and financial statement line items (a SOX scoping exercise), then trace those processes to the IT systems and applications that support them.
 2. **Map the control environment to COSO.** Assess entity-level controls against the five COSO components and seventeen principles. This is the foundation an auditor or management team references when concluding on control effectiveness.
-3. **Assess risk using COSO ERM.** Identify and prioritise the risks that threaten the in-scope objectives, connecting risk appetite and strategy to the specific controls chosen. This step determines how much testing depth each area warrants.
-4. **Structure the IT governance response with COBIT.** Use COBIT's governance and management objectives (across the Evaluate-Direct-Monitor, Align-Plan-Organize, Build-Acquire-Implement, Deliver-Service-Support, and Monitor-Evaluate-Assess domains) to organise policies, processes, and accountability for the in-scope IT environment.
+3. **Assess risk using COSO ERM.** Identify and prioritize the risks that threaten the in-scope objectives, connecting risk appetite and strategy to the specific controls chosen. This step determines how much testing depth each area warrants.
+4. **Structure the IT governance response with COBIT.** Use COBIT's governance and management objectives (across the Evaluate-Direct-Monitor, Align-Plan-Organize, Build-Acquire-Implement, Deliver-Service-Support, and Monitor-Evaluate-Assess domains) to organize policies, processes, and accountability for the in-scope IT environment.
 5. **Identify ITGCs for each in-scope system.** Document controls across the standard ITGC categories: logical access, change management, IT operations (backup, job scheduling, incident management), and, where relevant, program development / system implementation.
 6. **Identify ITACs for each in-scope application.** Document the automated controls embedded in the application itself: input validation, calculation logic, interface controls, and exception/error handling.
 7. **Build a Risk and Control Matrix (RCM).** Document each risk, the control that mitigates it, the control owner, frequency, and the type of evidence that will demonstrate operating effectiveness.
@@ -60,7 +60,7 @@ A financial-statement or IT audit typically works top-down through this stack: C
 - [COBIT | ISACA](https://www.isaca.org/resources/cobit) - The official COBIT resource hub: framework downloads, focus areas, and the certification path.
 - [COBIT 2019 Framework: Introduction and Methodology](https://www.isaca.org/store2/product/CB19FIMP-C) - The foundational publication explaining COBIT's principles and how the framework is structured.
 - [COBIT 2019 Framework: Governance and Management Objectives](https://www.isaca.org/resources/cobit) - The 40 governance and management objectives across five domains (EDM, APO, BAI, DSS, MEA) that make up the core of the framework.
-- [COBIT Design Guide](https://www.isaca.org/resources/cobit) - Guidance for tailoring COBIT's generic objectives to an organisation's specific context and risk profile.
+- [COBIT Design Guide](https://www.isaca.org/resources/cobit) - Guidance for tailoring COBIT's generic objectives to an organization's specific context and risk profile.
 - [COBIT Implementation Guide](https://www.isaca.org/resources/cobit) - A phased approach (based on ISACA's continual improvement life cycle) for rolling out COBIT in an enterprise.
 - [Implementing the NIST Cybersecurity Framework Using COBIT 2019](https://www.isaca.org/resources/cobit) - ISACA's official crosswalk between COBIT and NIST CSF, useful where security and IT governance audits overlap (see the companion [Security Frameworks](https://github.com/garynair/security-frameworks) list).
 
@@ -70,7 +70,7 @@ A financial-statement or IT audit typically works top-down through this stack: C
 
 - [Internal Control - Integrated Framework | COSO](https://www.coso.org/guidance-on-ic) - COSO's official guidance page for the 2013 Internal Control framework: overview, FAQs, and links to purchase the full framework and supplemental guidance. The full document is paywalled and not freely redistributable.
 - [COSO ERM Framework | COSO](https://www.coso.org/erm-framework) - COSO's official guidance page for the 2017 Enterprise Risk Management framework: overview and purchase links. Also paywalled in full.
-- [COSO](https://www.coso.org/) - The Committee of Sponsoring Organizations of the Treadway Commission's home page: news, guidance thought papers, and the full publication catalogue.
+- [COSO](https://www.coso.org/) - The Committee of Sponsoring Organizations of the Treadway Commission's home page: news, guidance thought papers, and the full publication catalog.
 - [AICPA & CIMA: COSO Internal Control - Integrated Framework](https://www.aicpa-cima.com/resources/landing/coso-internal-control-integrated-framework) - AICPA's resource landing page (COSO's licensing and distribution partner), including free implementation guidance alongside paid framework purchases.
 
 ## ITGC and ITAC
@@ -90,13 +90,13 @@ A financial-statement or IT audit typically works top-down through this stack: C
 - [AuditBoard](https://www.auditboard.com/) - Commercial GRC and SOX-management platform purpose-built for control matrices, walkthroughs, testing workflows, and issue tracking across ITGC/ITAC engagements.
 - [Workiva](https://www.workiva.com/) - Commercial platform for SOX compliance, internal controls management, and financial reporting workflows, with control-testing and certification modules.
 - [OneTrust](https://www.onetrust.com/) - Enterprise GRC platform covering IT and financial controls alongside broader privacy and third-party risk management.
-- [Hyperproof](https://hyperproof.io/) - Commercial GRC platform focused on control-to-evidence traceability, usable across COSO/COBIT-driven programmes as well as security frameworks.
+- [Hyperproof](https://hyperproof.io/) - Commercial GRC platform focused on control-to-evidence traceability, usable across COSO/COBIT-driven programs as well as security frameworks.
 
 ---
 
 ## Open-Source Audit and Controls Tooling
 
-- [NIST OSCAL](https://github.com/usnistgov/OSCAL) - NIST's open, machine-readable format for control catalogues and assessment results. Not COBIT/COSO-native, but increasingly used as the underlying data model for control-mapping tooling that spans IT audit and security frameworks.
+- [NIST OSCAL](https://github.com/usnistgov/OSCAL) - NIST's open, machine-readable format for control catalogs and assessment results. Not COBIT/COSO-native, but increasingly used as the underlying data model for control-mapping tooling that spans IT audit and security frameworks.
 - [InSpec](https://github.com/inspec/inspec) - Chef's open-source compliance-as-code framework. Useful for automating the technical evidence-gathering half of ITGC testing (configuration and access control checks) that feeds a manual control matrix.
 
 ---
@@ -104,7 +104,7 @@ A financial-statement or IT audit typically works top-down through this stack: C
 ## Assessment, Testing, and Control Matrix Resources
 
 - [PCAOB Staff Audit Practice Alerts](https://pcaobus.org/oversight/standards/auditing-standards) - Ongoing PCAOB guidance clarifying how AS 2201 and related standards should be applied in practice, including IT-controls-specific alerts.
-- [ISACA Audit and Assurance Resources](https://www.isaca.org/resources/audit-and-assurance) - ISACA's library of audit programmes, control matrices, and assurance guidance, several of which are COBIT-aligned ITGC test plans.
+- [ISACA Audit and Assurance Resources](https://www.isaca.org/resources/audit-and-assurance) - ISACA's library of audit programs, control matrices, and assurance guidance, several of which are COBIT-aligned ITGC test plans.
 - [AICPA Audit and Attest Standards](https://www.aicpa-cima.com/resources) - AICPA's standards and guidance library, the reference point for SOC 1/SOC 2 engagements that share testing methodology with SOX ITGC work.
 
 ---
@@ -148,6 +148,6 @@ A financial-statement or IT audit typically works top-down through this stack: C
 
 PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the criteria a new entry must meet.
 
-## Licence
+## License
 
-This list is published under [CC0 1.0 Universal](LICENSE). The linked resources retain their own licences; the COSO Internal Control and ERM frameworks in particular are paywalled and not freely redistributable.
+This list is published under [CC0 1.0 Universal](LICENSE). The linked resources retain their own licenses; the COSO Internal Control and ERM frameworks in particular are paywalled and not freely redistributable.
