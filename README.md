@@ -71,7 +71,7 @@ A financial-statement or IT audit typically works top-down through this stack: C
 - [Internal Control - Integrated Framework | COSO](https://www.coso.org/guidance-on-ic) - COSO's official guidance page for the 2013 Internal Control framework: overview, FAQs, and links to purchase the full framework and supplemental guidance. The full document is paywalled and not freely redistributable.
 - [COSO ERM Framework | COSO](https://www.coso.org/erm-framework) - COSO's official guidance page for the 2017 Enterprise Risk Management framework: overview and purchase links. Also paywalled in full.
 - [COSO](https://www.coso.org/) - The Committee of Sponsoring Organizations of the Treadway Commission's home page: news, guidance thought papers, and the full publication catalog.
-- [AICPA & CIMA: COSO Internal Control - Integrated Framework](https://www.aicpa-cima.com/resources/landing/coso-internal-control-integrated-framework) - AICPA's resource landing page (COSO's licensing and distribution partner), including free implementation guidance alongside paid framework purchases.
+- [AICPA & CIMA: COSO Internal Control - Integrated Framework](https://www.aicpa-cima.com/topic/audit-assurance/landing/coso-internal-control-integrated-framework) - AICPA's resource landing page (COSO's licensing and distribution partner), including free implementation guidance alongside paid framework purchases.
 
 ## ITGC and ITAC
 
@@ -79,7 +79,7 @@ A financial-statement or IT audit typically works top-down through this stack: C
 
 - [AS 2201: An Audit of Internal Control Over Financial Reporting](https://pcaobus.org/oversight/standards/auditing-standards/details/AS2201) - The PCAOB standard governing how an auditor evaluates internal control over financial reporting, including the IT-controls evaluation that drives ITGC/ITAC scoping. Amendment effective for fiscal years beginning after 15 December 2026.
 - [PCAOB Auditing Standards](https://pcaobus.org/oversight/standards/auditing-standards) - The full current PCAOB standards library, the authoritative source for any ICFR audit requirement referenced above.
-- [AICPA SOC 2 Trust Services Criteria](https://www.aicpa-cima.com/resources/download/get-description-criteria-for-your-organizations-soc-2-r-report) - The criteria (Security, Availability, Processing Integrity, Confidentiality, Privacy) used in SOC 2 engagements; heavily overlapping with ITGC categories and frequently tested using the same evidence.
+- [AICPA SOC 2 Trust Services Criteria](https://www.aicpa-cima.com/topic/audit-assurance/download/get-description-criteria-for-your-organizations-soc-2-r-report) - The criteria (Security, Availability, Processing Integrity, Confidentiality, Privacy) used in SOC 2 engagements; heavily overlapping with ITGC categories and frequently tested using the same evidence.
 - [ISACA IT Control Objectives for Sarbanes-Oxley](https://www.isaca.org/resources/cobit) - ISACA's guide mapping COBIT control objectives directly to SOX 404 IT control requirements, historically the standard reference for scoping ITGCs against COBIT.
 
 ---
@@ -104,8 +104,8 @@ A financial-statement or IT audit typically works top-down through this stack: C
 ## Assessment, Testing, and Control Matrix Resources
 
 - [PCAOB Staff Audit Practice Alerts](https://pcaobus.org/oversight/standards/auditing-standards) - Ongoing PCAOB guidance clarifying how AS 2201 and related standards should be applied in practice, including IT-controls-specific alerts.
-- [ISACA Audit and Assurance Resources](https://www.isaca.org/resources/audit-and-assurance) - ISACA's library of audit programs, control matrices, and assurance guidance, several of which are COBIT-aligned ITGC test plans.
-- [AICPA Audit and Attest Standards](https://www.aicpa-cima.com/resources) - AICPA's standards and guidance library, the reference point for SOC 1/SOC 2 engagements that share testing methodology with SOX ITGC work.
+- [ISACA Audit and Assurance Resources](https://www.isaca.org/resources) - ISACA's library of audit programs, control matrices, and assurance guidance, several of which are COBIT-aligned ITGC test plans.
+- [AICPA Audit and Attest Standards](https://www.aicpa-cima.com/topic/audit-assurance) - AICPA's standards and guidance library, the reference point for SOC 1/SOC 2 engagements that share testing methodology with SOX ITGC work.
 
 ---
 
