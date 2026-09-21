@@ -141,6 +141,7 @@ A financial-statement or IT audit typically works top-down through this stack: C
 
 - [AI Governance](https://github.com/garynair/ai-governance) - A companion curated list covering AI-specific governance: regulation, standards, and runtime controls for autonomous agents.
 - [Security Frameworks](https://github.com/garynair/security-frameworks) - A companion curated list covering NIST CSF, ISO/IEC 27001, and PCI-DSS, with a shared control-mapping tooling section.
+- [Risk Management](https://github.com/garynair/risk-management) - A companion curated list covering the risk register, heat maps, and treatment planning that unresolved findings from this list feed into.
 
 ---
 
