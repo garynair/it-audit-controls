@@ -1,3 +1,5 @@
+![IT Audit & Controls Frameworks](docs/banner.png)
+
 # IT Audit & Controls Frameworks
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
